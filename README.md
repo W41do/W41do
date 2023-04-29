@@ -72,6 +72,8 @@ Fun Fact: you found me
 <div style="position: absolute; z-index: 10;">
 <picture>
     <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
 </picture>
 </div>
 </div>
