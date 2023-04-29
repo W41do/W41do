@@ -64,6 +64,7 @@ Fun Fact: you found me
     <img src="gifs/totoro.gif"/>
 </picture>
 <picture>
+<!-- https://github.com/kyechan99/capsule-render#color -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
 </picture>
 </div>
