@@ -61,7 +61,7 @@ Fun Fact: you found me
 </br>
 </br>
 <picture>
-    <img src="gifs/totoro.gif"/>
+    <img src="gifs/totoro.gif" width="1200"/>
 </picture>
 <picture>
 <!-- https://github.com/kyechan99/capsule-render#color -->
