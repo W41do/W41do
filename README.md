@@ -60,12 +60,13 @@ Fun Fact: you found me
 </picture>
 </br>
 </br>
+</br>
 <picture>
     <img src="gifs/totoro.gif"/>
 </picture>
+</div>
+<div align="center" style="position: fixed;">
 <picture>
-    <img src="gifs/totoro_bg.gif">
-    <img src="gifs/totoro_bg.gif">
     <img src="gifs/totoro_bg.gif">
 </picture>
 </div>
