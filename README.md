@@ -56,9 +56,9 @@ Fun Fact: you found me
 
 
 
-
-<img src="blue.svg" alt="Typing SVG" />
-
+<picture>
+    <img src="blue.svg" alt="Typing SVG" />
+</picture>
 
 
 
