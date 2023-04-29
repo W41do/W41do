@@ -60,6 +60,7 @@ Fun Fact: you found me
 </picture>
 </br>
 </br>
+</br>
 <picture>
     <img src="gifs/totoro.gif" width="1200"/>
 </picture>
