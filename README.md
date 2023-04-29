@@ -60,6 +60,19 @@ Fun Fact: you found me
 
 
 
+<div id="banner">
+    <div class="inline-block">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=test1" alt="Typing SVG1" />
+    </div>
+    <div class="inline-block">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=test2" alt="Typing SVG2" />
+    </div>
+    <div class="inline-block">
+        <img src ="img3.jpg">
+    </div>
+</div>
+
+
 
 <!-- Design and Customization
 Learning: Machine/Deep Learning
