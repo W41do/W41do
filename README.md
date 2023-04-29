@@ -63,13 +63,13 @@ Fun Fact: you found me
 </br>
 </div>
 
-<div align="center" style="display: grid;">
-<div style="grid-area: 1 / 1;">
+<div align="center" style="position: relative;">
+<div style="position: absolute;">
 <picture>
     <img src="gifs/totoro.gif"/>
 </picture>
 </div>
-<div style="grid-area: 1 / 1;">
+<div style="position: absolute; z-index: 10;">
 <picture>
     <img src="gifs/totoro_bg.gif">
 </picture>
