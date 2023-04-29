@@ -127,7 +127,7 @@ Fun Fact: you found me
 </br>
 
 <picture>
-    <img src="1.svg" alt="Typing SVG" />
+    <img src="7.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
@@ -305,6 +305,16 @@ Fun Fact: you found me
 <picture>
     <img src="snake1.svg" alt="Typing SVG" />
 </picture>
+
+
+
+2
+
+4
+
+pink
+
+greenn
 
 
 <!-- 
