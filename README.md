@@ -63,39 +63,6 @@ Fun Fact: you found me
 <picture>
     <img src="snake1.svg" alt="Typing SVG" />
 </picture>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<picture>
-    <img src="pinkk.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake1.svg" alt="Typing SVG" />
-</picture>
 
 </br>
 </br>
@@ -124,110 +91,6 @@ Fun Fact: you found me
 </br>
 </br>
 
-<picture>
-    <img src="7.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake1.svg" alt="Typing SVG" />
-</picture>
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<picture>
-    <img src="4.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake1.svg" alt="Typing SVG" />
-</picture>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-<picture>
-    <img src="green.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake1.svg" alt="Typing SVG" />
-</picture>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 <picture>
     <img src="pink.svg" alt="Typing SVG" />
 </picture>
@@ -236,50 +99,7 @@ Fun Fact: you found me
     <img src="snake1.svg" alt="Typing SVG" />
 </picture>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
-<picture>
-    <img src="greenn.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake1.svg" alt="Typing SVG" />
-</picture>
-
-
-
-2
-
-4
-
-pink
-
-greenn
 
 
 <!-- 
