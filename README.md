@@ -57,11 +57,11 @@ Fun Fact: you found me
 </picture> -->
 
 <picture>
-    <img src="blue.svg" alt="Typing SVG" />
+    <img src="neofetch/blue.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
-    <img src="snake1.svg" alt="Typing SVG" />
+    <img src="snake/snake1.svg" alt="Typing SVG" />
 </picture>
 
 </br>
@@ -92,11 +92,11 @@ Fun Fact: you found me
 </br>
 
 <picture>
-    <img src="pink.svg" alt="Typing SVG" />
+    <img src="neofetch/pink.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
-    <img src="snake1.svg" alt="Typing SVG" />
+    <img src="snake/snake1.svg" alt="Typing SVG" />
 </picture>
 
 
