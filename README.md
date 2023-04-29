@@ -64,7 +64,7 @@ Fun Fact: you found me
     <img src="gifs/totoro.gif"/>
 </picture>
 <picture>
-    <img src="else/1.svg"/>
+    <img src="else/2.svg"/>
 </picture>
 </div>
 
