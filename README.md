@@ -52,9 +52,66 @@ Fun Fact: you found me
  -->
 
 
+<picture>
+    <img src="snake1.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake2.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake3.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake4.svg" alt="Typing SVG" />
+</picture>
+
+
 
 <picture>
     <img src="pinkk.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake1.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="greenn.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="pinkk.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake2.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="greenn.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="pinkk.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake3.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="greenn.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="pinkk.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="snake4.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
