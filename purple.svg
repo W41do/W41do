@@ -21,7 +21,7 @@
                     dur='65ms' fill="freeze"
                     values='m0,20 h0 ; m0,20 h0 ; m0,20 h1120 ; m0,20 h1120' keyTimes='0;0;0.98461538461538;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
@@ -34,7 +34,7 @@
                     dur='130ms' fill="freeze"
                     values='m0,40 h0 ; m0,40 h0 ; m0,40 h1120 ; m0,40 h1120' keyTimes='0;0.5;0.99230769230769;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
@@ -47,7 +47,7 @@
                     dur='195ms' fill="freeze"
                     values='m0,60 h0 ; m0,60 h0 ; m0,60 h1120 ; m0,60 h1120' keyTimes='0;0.66666666666667;0.99487179487179;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
@@ -60,7 +60,7 @@
                     dur='260ms' fill="freeze"
                     values='m0,80 h0 ; m0,80 h0 ; m0,80 h1120 ; m0,80 h1120' keyTimes='0;0.75;0.99615384615385;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
@@ -73,7 +73,7 @@
                     dur='325ms' fill="freeze"
                     values='m0,100 h0 ; m0,100 h0 ; m0,100 h1120 ; m0,100 h1120' keyTimes='0;0.8;0.99692307692308;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path4'>
@@ -86,7 +86,7 @@
                     dur='390ms' fill="freeze"
                     values='m0,120 h0 ; m0,120 h0 ; m0,120 h1120 ; m0,120 h1120' keyTimes='0;0.83333333333333;0.9974358974359;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path5'>
@@ -99,7 +99,7 @@
                     dur='455ms' fill="freeze"
                     values='m0,140 h0 ; m0,140 h0 ; m0,140 h1120 ; m0,140 h1120' keyTimes='0;0.85714285714286;0.9978021978022;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path6'>
@@ -112,7 +112,7 @@
                     dur='520ms' fill="freeze"
                     values='m0,160 h0 ; m0,160 h0 ; m0,160 h1120 ; m0,160 h1120' keyTimes='0;0.875;0.99807692307692;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path7'>
@@ -125,7 +125,7 @@
                     dur='585ms' fill="freeze"
                     values='m0,180 h0 ; m0,180 h0 ; m0,180 h1120 ; m0,180 h1120' keyTimes='0;0.88888888888889;0.9982905982906;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path8'>
@@ -138,7 +138,7 @@
                     dur='650ms' fill="freeze"
                     values='m0,200 h0 ; m0,200 h0 ; m0,200 h1120 ; m0,200 h1120' keyTimes='0;0.9;0.99846153846154;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path9'>
@@ -151,7 +151,7 @@
                     dur='715ms' fill="freeze"
                     values='m0,220 h0 ; m0,220 h0 ; m0,220 h1120 ; m0,220 h1120' keyTimes='0;0.90909090909091;0.9986013986014;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path10'>
@@ -164,7 +164,7 @@
                     dur='780ms' fill="freeze"
                     values='m0,240 h0 ; m0,240 h0 ; m0,240 h1120 ; m0,240 h1120' keyTimes='0;0.91666666666667;0.99871794871795;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path11'>
@@ -177,7 +177,7 @@
                     dur='845ms' fill="freeze"
                     values='m0,260 h0 ; m0,260 h0 ; m0,260 h1120 ; m0,260 h1120' keyTimes='0;0.92307692307692;0.99881656804734;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path12'>
@@ -190,7 +190,7 @@
                     dur='910ms' fill="freeze"
                     values='m0,280 h0 ; m0,280 h0 ; m0,280 h1120 ; m0,280 h1120' keyTimes='0;0.92857142857143;0.9989010989011;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path13'>
@@ -203,7 +203,7 @@
                     dur='975ms' fill="freeze"
                     values='m0,300 h0 ; m0,300 h0 ; m0,300 h1120 ; m0,300 h1120' keyTimes='0;0.93333333333333;0.99897435897436;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path14'>
@@ -216,7 +216,7 @@
                     dur='1040ms' fill="freeze"
                     values='m0,320 h0 ; m0,320 h0 ; m0,320 h1120 ; m0,320 h1120' keyTimes='0;0.9375;0.99903846153846;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path15'>
@@ -229,7 +229,7 @@
                     dur='1105ms' fill="freeze"
                     values='m0,340 h0 ; m0,340 h0 ; m0,340 h1120 ; m0,340 h1120' keyTimes='0;0.94117647058824;0.99909502262443;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path16'>
@@ -242,7 +242,7 @@
                     dur='1170ms' fill="freeze"
                     values='m0,360 h0 ; m0,360 h0 ; m0,360 h1120 ; m0,360 h1120' keyTimes='0;0.94444444444444;0.9991452991453;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path17'>
@@ -255,7 +255,7 @@
                     dur='1235ms' fill="freeze"
                     values='m0,380 h0 ; m0,380 h0 ; m0,380 h1120 ; m0,380 h1120' keyTimes='0;0.94736842105263;0.99919028340081;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path18'>
@@ -268,7 +268,7 @@
                     dur='1300ms' fill="freeze"
                     values='m0,400 h0 ; m0,400 h0 ; m0,400 h1120 ; m0,400 h1120' keyTimes='0;0.95;0.99923076923077;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path19'>
@@ -281,7 +281,7 @@
                     dur='1365ms' fill="freeze"
                     values='m0,420 h0 ; m0,420 h0 ; m0,420 h1120 ; m0,420 h1120' keyTimes='0;0.95238095238095;0.9992673992674;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path20'>
@@ -294,7 +294,7 @@
                     dur='1430ms' fill="freeze"
                     values='m0,440 h0 ; m0,440 h0 ; m0,440 h1120 ; m0,440 h1120' keyTimes='0;0.95454545454545;0.9993006993007;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path21'>
@@ -307,7 +307,7 @@
                     dur='1495ms' fill="freeze"
                     values='m0,460 h0 ; m0,460 h0 ; m0,460 h1120 ; m0,460 h1120' keyTimes='0;0.95652173913043;0.99933110367893;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#0ABDC6' font-size='15'
+    <text font-family='"Fira Code", monospace' fill='#8700FF' font-size='15'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path22'>

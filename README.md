@@ -53,16 +53,52 @@ Fun Fact: you found me
 
 
 
-
-
+<picture>
+    <img src="pink.svg" alt="Typing SVG" />
+</picture>
 
 <picture>
-    <img src="blue.svg" alt="Typing SVG" />
+    <img src="purple.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="red.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
     <img src="tyrquise.svg" alt="Typing SVG" />
 </picture>
+
+<picture>
+    <img src="green.svg" alt="Typing SVG" />
+</picture>
+
+
+<picture>
+    <img src="1.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="2.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="3.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="4.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="5.svg" alt="Typing SVG" />
+</picture>
+
+<picture>
+    <img src="6.svg" alt="Typing SVG" />
+</picture>
+
+
 
 
 
