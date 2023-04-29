@@ -61,14 +61,19 @@ Fun Fact: you found me
 </br>
 </br>
 </br>
+</div>
+
+<div align="center" style="display: grid;">
+<div style="grid-area: 1 / 1;">
 <picture>
     <img src="gifs/totoro.gif"/>
 </picture>
 </div>
-<div align="center" style="position: fixed;">
+<div style="grid-area: 1 / 1;">
 <picture>
     <img src="gifs/totoro_bg.gif">
 </picture>
+</div>
 </div>
 
 
