@@ -58,10 +58,26 @@ Fun Fact: you found me
 <picture>
     <img src="snake/snake1.svg"/>
 </picture>
+</br>
+</br>
 <picture>
+    <center>
     <img src="gifs/totoro.gif"/>
+    </center>
 </picture>
-
+<!-- <picture>
+    <center>
+    <img src="gifs/totoro_bg.gif"/>
+    </center>
+</picture> -->
+<div class="footer">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+    <img src="gifs/totoro_bg.gif">
+</div>
 
 <!-- 
 <picture>
