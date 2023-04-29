@@ -53,10 +53,13 @@ Fun Fact: you found me
 
 
 <picture>
-    <img src="neofetch/blue_slow.svg" alt="Typing SVG" />
+    <img src="neofetch/blue_slow.svg"/>
 </picture>
 <picture>
-    <img src="snake/snake1.svg" alt="Typing SVG" />
+    <img src="snake/snake1.svg"/>
+</picture>
+<picture>
+    <img src="gifs/totoro.gif"/>
 </picture>
 
 
