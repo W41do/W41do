@@ -52,13 +52,9 @@ Fun Fact: you found me
  -->
 
 
-<picture>
+<!-- <picture>
     <img src="snake1.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake2.svg" alt="Typing SVG" />
-</picture>
+</picture> -->
 
 
 
@@ -70,20 +66,39 @@ Fun Fact: you found me
     <img src="snake1.svg" alt="Typing SVG" />
 </picture>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <picture>
     <img src="greenn.svg" alt="Typing SVG" />
 </picture>
 
 <picture>
-    <img src="pinkk.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="snake2.svg" alt="Typing SVG" />
-</picture>
-
-<picture>
-    <img src="greenn.svg" alt="Typing SVG" />
+    <img src="snake1.svg" alt="Typing SVG" />
 </picture>
 
 
