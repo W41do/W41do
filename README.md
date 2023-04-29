@@ -64,9 +64,10 @@ Fun Fact: you found me
     <img src="gifs/totoro.gif"/>
 </picture>
 <picture>
-    <img src="else/2.svg"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
 </picture>
 </div>
+
 
 
 
@@ -139,9 +140,6 @@ https://github.com/DenverCoder1/table2ascii
 cool accs:
 https://github.com/guilyx
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
 
 
 ## Visitor Count
