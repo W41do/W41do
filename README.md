@@ -51,7 +51,7 @@ Fun Fact: you found me
 ⬛🟥🟩🟨🟦🟪🟧⬜
  -->
 
-
+<div align="center">
 <picture>
     <img src="neofetch/blue_slow.svg"/>
 </picture>
@@ -61,23 +61,15 @@ Fun Fact: you found me
 </br>
 </br>
 <picture>
-    <center>
     <img src="gifs/totoro.gif"/>
-    </center>
 </picture>
-<!-- <picture>
-    <center>
-    <img src="gifs/totoro_bg.gif"/>
-    </center>
-</picture> -->
-<div class="footer">
+<picture>
     <img src="gifs/totoro_bg.gif">
     <img src="gifs/totoro_bg.gif">
     <img src="gifs/totoro_bg.gif">
-    <img src="gifs/totoro_bg.gif">
-    <img src="gifs/totoro_bg.gif">
-    <img src="gifs/totoro_bg.gif">
+</picture>
 </div>
+
 
 <!-- 
 <picture>
