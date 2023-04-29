@@ -60,15 +60,18 @@ Fun Fact: you found me
 
 
 
-<div id="banner">
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
     <div class="inline-block">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=test1" alt="Typing SVG1" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&repeat=false&width=70&lines=test2" alt="Typing SVG" />
     </div>
     <div class="inline-block">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=test2" alt="Typing SVG2" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&repeat=false&width=70&lines=test2" alt="Typing SVG" />
     </div>
     <div class="inline-block">
-        <img src ="img3.jpg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&repeat=false&width=70&lines=test2" alt="Typing SVG" />
+    </div>
+    <div class="inline-block">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&repeat=false&width=70&lines=test2" alt="Typing SVG" />
     </div>
 </div>
 
