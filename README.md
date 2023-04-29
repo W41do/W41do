@@ -60,6 +60,10 @@ Fun Fact: you found me
     <img src="blue.svg" alt="Typing SVG" />
 </picture>
 
+<picture>
+    <img src="tyrquise.svg" alt="Typing SVG" />
+</picture>
+
 
 
 <!-- Design and Customization
