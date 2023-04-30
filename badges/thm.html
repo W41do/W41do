@@ -1,0 +1,182 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">   
+    <title>THM</title> 
+</head>
+<body>
+<div id="thm_badge">
+    <style scoped="">
+        .thm_margin {
+            margin: 5px;
+        }
+
+        #thm_badge {
+            width: 210px;
+            display: inline-table;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        #thm_badge:hover {
+            cursor: pointer;
+        }
+
+        .thm_avatar {
+            display: block;
+            width: 50px;
+            height: 50px;
+            float: left;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            border-radius: 50%;
+            box-sizing: content-box;
+            /* Needed for border to stop changing image width*/
+            /* border: 3px solid #88cc14; */
+            border: 3px solid #1bf913;
+            background-color: #1e2124;
+            box-shadow: inset 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+            object-fit: cover;
+            box-shadow: 0 0px 3px 0px #1bf913;
+        }
+
+        @font-face {
+            font-family: "Roboto";
+            font-style: normal;
+            font-weight: 400;
+            src: url(https://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkY4P5ICox8Kq3LLUNMylGO4.woff2) format("woff2");
+        }
+
+        .thm_font {
+            font-family: "Roboto", monospace;
+        }
+
+        .thm_nickname {
+            color: #ffffff;
+            font-size: 12px;
+            font-weight: bold;
+            text-shadow: #4700ff 0 0 6px;
+        }
+
+        .thm_stat {
+            color: #fff;
+            opacity: 0.8;
+            font-size: 14px;
+        }
+
+        .thm_icon {
+            opacity: 1.00;
+            height: 16px;
+        }
+
+        @keyframes flicker {
+
+            0%,
+            19.999%,
+            22%,
+            62.999%,
+            64%,
+            64.999%,
+            70%,
+            100% {
+                opacity: 0.99;
+                text-shadow: -1px -1px 0 $outline, 1px -1px 0 $outline, -1px 1px 0 $outline, 1px 1px 0 $outline, 0 -2px 8px, 0 0 2px, 0 0 5px #424549, 0 0 15px #36393e, 0 0 2px #282b30, 0 2px 3px #000;
+            }
+
+            20%,
+            21.999%,
+            63%,
+            63.999%,
+            65%,
+            69.999% {
+                opacity: 0.4;
+                text-shadow: #4700ff 0 0 6px;
+            }
+        }
+
+        .thm_rank {
+            color: #ffffff;
+            font-size: 11px;
+            text-shadow: #4700ff 0 0 6px;
+        }
+
+        .thm_line {
+            line-height: 12px;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .thm_link {
+            color: #fff;
+            font-size: 0.6em;
+            text-decoration: none;
+            animation: flicker 6s infinite;
+            text-shadow: #4700ff 0 0 6px;
+        }
+
+        .thm_link:hover {
+            color: #fff;
+            font-size: 0.6em;
+            text-decoration: underline;
+        }
+
+        .thm_link:visited {
+            color: #fff;
+        }
+
+        .thm_mr {
+            margin-right: 8px;
+        }
+
+        .thm_for_img {
+            color: #fff;
+            opacity: 0.5;
+            font-size: 14px;
+            position: relative;
+            top: -3px;
+            margin-bottom: 5px;
+        }
+
+        .trophy {
+            width: 300px;
+            -webkit-filter: drop-shadow(0px 0px 1px rgb(255, 238, 0));
+            filter: drop-shadow(0px 0px 2px rgb(255, 238, 0));
+        }
+    </style>
+    <div id="thm_badge" class="thm_margin" onclick="location.href='https://tryhackme.com/p/W41do'">
+        <div style=" width: auto; border-radius: 4px; margin-right: 0px;">
+            <div class="thm_avatar"
+                style="background-image: url(https://tryhackme-images.s3.amazonaws.com/user-avatars/1192cb4fc52a49d1640091a65f990b44.jpg)">
+            </div>
+        </div>
+        <div
+            style=" margin-left: 25px; width: 270px; height: 56px; background-color: #1e2124; border-radius: 5px; text-align: left; background-image: url(https://assets.tryhackme.com/img/thm_logo_only.svg); background-size: 23px 23px; background-position: right 5px bottom 5px; background-repeat: no-repeat;">
+            <div class="thm_font"
+                style=" box-sizing: content-box; height: 50px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-left: 8px; padding-top: 5px;">
+                <p class="thm_line" style="margin-bottom: 3px"> <span class="thm_nickname">W41do</span> <span
+                        class="thm_rank">[0x8]</span> <br> </p>
+                <p class="thm_line" style="margin-bottom: 1px; display: flex; align-items: center"> <img
+                        class="thm_icon thm_mr"
+                        src="https://cdn.discordapp.com/attachments/939096809018622002/960650301386407966/trophy.gif"
+                        alt="trophy"> <span class="thm_stat thm_mr">84965</span> <img class="thm_icon thm_mr"
+                        src="https://cdn.discordapp.com/attachments/939096809018622002/958108545583296573/ohayo.png"
+                        alt="door"> <span class="thm_stat thm_mr">41</span> <img class="thm_icon thm_mr"
+                        src="https://cdn.discordapp.com/attachments/939096809018622002/960658941992382474/badge00.png"
+                        alt="target"> <span class="thm_stat thm_mr">10</span> <img class="thm_icon thm_mr"
+                        src="https://cdn.discordapp.com/attachments/939096809018622002/960661695334866954/flame.gif"
+                        alt="streak"> <span class="thm_stat">402</span> <br> </p>
+                <p class="thm_line"> <a href="https://tryhackme.com/p/W41do" class="thm_link">tryhackme.com</a> </p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
