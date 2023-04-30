@@ -97,12 +97,12 @@ Fun Fact: you found me
             object-fit: cover;
             box-shadow: 0 0px 3px 0px #e11e6c;
         }
-        @font-face {
+        /* @font-face {
             font-family: "Roboto";
             font-style: normal;
             font-weight: 400;
             src: url(https://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkY4P5ICox8Kq3LLUNMylGO4.woff2) format("woff2");
-        }
+        } */
         .d_font {
             font-family: "Roboto", monospace;
         }
@@ -121,7 +121,7 @@ Fun Fact: you found me
             opacity: 1.00;
             height: 16px;
         }
-        @keyframes flicker {
+        /* @keyframes flicker {
             0%,
             19.999%,
             22%,
@@ -142,7 +142,7 @@ Fun Fact: you found me
                 opacity: 0.4;
                 text-shadow: #4700ff 0 0 6px;
             }
-        }
+        } */
         .d_rank {
             color: #ffffff;
             font-size: 11px;
