@@ -51,34 +51,6 @@ Fun Fact: you found me
 ⬛🟥🟩🟨🟦🟪🟧⬜
  -->
 
-<div align="center">
-<picture>
-    <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
-    <img src="neofetch/blue_opt.svg"/>
-</picture>
-
-<img src="http://waldo.9e.cz/discord.html">
-
-<picture>
-    <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-    <img src="snake/snake1.svg"/>
-</picture>
-</br>
-</br>
-</br>
-<picture>
-    <img src="gifs/totoro_faster.gif" width="1200"/>
-</picture>
-<picture>
-    <!-- https://github.com/kyechan99/capsule-render#color -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
-</picture>
-</div>
-
-[Amazing Persian Proverbs](http://waldo.9e.cz/discord.html)
-
-![Amazing Persian Proverbs](http://waldo.9e.cz/discord.html)
-
 
 <div id="d_badge">
     <style scoped="">
@@ -229,6 +201,35 @@ Fun Fact: you found me
     </div>
 </div>
 </div>
+
+
+
+<div align="center">
+<picture>
+    <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
+    <img src="neofetch/blue_opt.svg"/>
+</picture>
+
+<img src="http://waldo.9e.cz/discord.html">
+
+<picture>
+    <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+    <img src="snake/snake1.svg"/>
+</picture>
+</br>
+</br>
+</br>
+<picture>
+    <img src="gifs/totoro_faster.gif" width="1200"/>
+</picture>
+<picture>
+    <!-- https://github.com/kyechan99/capsule-render#color -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
+</picture>
+</div>
+
+
+
 
 <!-- 
 <picture>
