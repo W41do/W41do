@@ -53,9 +53,11 @@ Fun Fact: you found me
 
 <div align="center">
 <picture>
-    <img src="neofetch/blue_slow.svg"/>
+    <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
+    <!-- <img src="neofetch/blue_slow.svg"/> -->
 </picture>
 <picture>
+    <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
     <img src="snake/snake1.svg"/>
 </picture>
 </br>
@@ -65,7 +67,7 @@ Fun Fact: you found me
     <img src="gifs/totoro_faster.gif" width="1200"/>
 </picture>
 <picture>
-<!-- https://github.com/kyechan99/capsule-render#color -->
+    <!-- https://github.com/kyechan99/capsule-render#color -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
 </picture>
 </div>
