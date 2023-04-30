@@ -53,22 +53,13 @@ Fun Fact: you found me
 
 
 
-
-<span class="dot" style="height: 25px;
-  width: 25px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;"></span>
-
-
-
 <div align="center">
 <picture>
     <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
     <img src="neofetch/blue_opt.svg"/>
 </picture>
 
-<img src="http://waldo.9e.cz/discord.html">
+<!-- <img src="http://waldo.9e.cz/discord.html"> -->
 
 <picture>
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
