@@ -54,7 +54,7 @@ Fun Fact: you found me
 <div align="center">
 <picture>
     <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
-    <img src="neofetch/blue.svg"/>
+    <img src="neofetch/blue_opt.svg"/>
 </picture>
 <picture>
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
