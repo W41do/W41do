@@ -58,6 +58,7 @@ Fun Fact: you found me
 </picture>
 <picture>
 <img src="http://waldo.9e.cz/discord.html">
+
 </picture>
 <picture>
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
@@ -75,7 +76,9 @@ Fun Fact: you found me
 </picture>
 </div>
 
+[Amazing Persian Proverbs](http://waldo.9e.cz/discord.html)
 
+![Amazing Persian Proverbs](http://waldo.9e.cz/discord.html)
 
 
 <!-- 
