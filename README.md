@@ -395,7 +395,7 @@ https://github.com/VydrOz
 "　　　　　　　　　　　" perfect 8 (16)
 "    　　" perfect 3 (6, 9, 12)
 "        " two spaces plus 0.001
-
+"    　　　　　　　　　　　　　" perfect 11
 
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
