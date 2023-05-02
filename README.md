@@ -51,13 +51,13 @@ Fun Fact: you found me
 ⬛🟥🟩🟨🟦🟪🟧⬜
  -->
 
-
+<picture>
 <center>
-<picture>
-<img src="badges/dc_svg.svg" style="width:48%;"/></picture>
-<picture>
-<img src="badges/thm_svg.svg" style="width:48%;"/></picture>
+
+<img src="badges/dc_svg.svg" style="width:48%;"/>
+<img src="badges/thm_svg.svg" style="width:48%;"/>
 </center>
+</picture>
 
 <div align="center">
 <picture>
