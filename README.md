@@ -52,6 +52,12 @@ Fun Fact: you found me
  -->
 
 
+<center>
+<picture>
+<img src="badges/dc_svg.svg" style="width:48%;"/></picture>
+<picture>
+<img src="badges/thm_svg.svg" style="width:48%;"/></picture>
+</center>
 
 <div align="center">
 <picture>
@@ -63,10 +69,7 @@ Fun Fact: you found me
 
 
 <!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
-<center>
-<img src="badges/thm_svg.svg" style="width:48%;"/>
-<img src="badges/dc_svg.svg" style="width:48%;"/>
-</center>
+
 
 <picture>
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
