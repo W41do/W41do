@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="416"
+   width="321"
    height="82"
-   viewBox="0 0 110.06666 21.695833"
+   viewBox="0 0 84.931245 21.695833"
    version="1.1"
    id="svg5"
    sodipodi:docname="dc_svg.svg"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="4.2734328"
-     inkscape:cx="147.89047"
-     inkscape:cy="34.398575"
+     inkscape:zoom="2.1367164"
+     inkscape:cx="208.49749"
+     inkscape:cy="74.881252"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="-11"
@@ -52,7 +52,7 @@
          id="image21580"
          x="0"
          y="0" /></pattern><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter22718"
        x="-0.19807927"
@@ -120,7 +120,7 @@
          id="image7314"
          x="0"
          y="0" /></pattern><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter8110"
        x="-0.19807927"
@@ -176,11 +176,11 @@
          in="fbSourceGraphic"
          operator="over"
          result="composite2" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter2985"
        x="-0.058074933"
-       y="-0.46320827"
+       y="-0.46320826"
        width="1.1161499"
        height="1.9264165"><feFlood
          flood-opacity="1"
@@ -232,11 +232,11 @@
          in="fbSourceGraphic"
          operator="over"
          result="composite2" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter3757"
        x="-0.058074933"
-       y="-0.46320827"
+       y="-0.46320826"
        width="1.1161499"
        height="1.9264165"><feFlood
          flood-opacity="1"
@@ -288,7 +288,7 @@
          in="fbSourceGraphic"
          operator="over"
          result="composite2" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter13090"
        x="-0.030053269"
@@ -340,12 +340,12 @@
        id="rect7684"
        ry="6.6410413" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60442px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fceaf1;stroke:#fceaf1;stroke-width:0.174003;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;filter:url(#filter13090)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60442px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fceaf1;fill-opacity:1;stroke:#fceaf1;stroke-width:0.174003;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter13090)"
        x="26.520704"
        y="12.227817"
        id="text480"><tspan
          sodipodi:role="line"
          id="tspan478"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60442px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fceaf1;stroke:#fceaf1;stroke-width:0.174003;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60442px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fceaf1;fill-opacity:1;stroke:#fceaf1;stroke-width:0.174003;stroke-dasharray:none;stroke-opacity:1"
          x="26.520704"
          y="12.227817">work in progress</tspan></text></g></svg>
