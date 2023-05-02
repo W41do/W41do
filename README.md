@@ -61,6 +61,13 @@ Fun Fact: you found me
 
 <!-- <img src="http://waldo.9e.cz/discord.html"> -->
 
+
+<!-- https://readme-typing-svg.demolab.com/demo/ ... duration per line 64, font size 15, color #2FDEDEFF -->
+<center>
+<img src="badges/thm_svg.svg" style="display:inline-block;"/>
+<img src="badges/dc_svg.svg" style="display:inline-block;"/>
+</center>
+
 <picture>
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
     <img src="snake/snake1.svg"/>

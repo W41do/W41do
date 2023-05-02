@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="56">
+  <style>
+    .thm_margin {
+      margin: 5px;
+    }
+
+    .thm_avatar {
+      display: block;
+      width: 50px;
+      height: 50px;
+      float: left;
+      border-radius: 50%;
+      box-sizing: content-box;
+      /* Needed for border to stop changing image width */
+      border: 3px solid #1bf913;
+      background-color: #1e2124;
+      box-shadow: inset 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+      object-fit: cover;
+      box-shadow: 0 0px 3px 0px #1bf913;
+    }
+
+    @font-face {
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 400;
+      src: url(https://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkY4P5ICox8Kq3LLUNMylGO4.woff2) format("woff2");
+    }
+
+    .thm_font {
+      font-family: "Roboto", monospace;
+    }
+
+    .thm_nickname {
+      color: #ffffff;
+      font-size: 12px;
+      font-weight: bold;
+      text-shadow: #4700ff 0 0 6px;
+    }
+
+    .thm_stat {
+      color: #fff;
+      opacity: 0.8;
+      font-size: 14px;
+    }
+
+    .thm_icon {
+      opacity: 1.00;
+      height: 16px;
+    }
+
+    @keyframes flicker {
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        opacity: 0.99;
+        text-shadow: -1px -1px 0 $outline, 1px -1px 0 $outline, -1px 1px 0 $outline, 1px 1px 0 $outline, 0 -2px 8px, 0 0 2px, 0 0 5px #424549, 0 0 15px #36393e, 0 0 2px #282b30, 0 2px 3px #000;
+      }
+      20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+        opacity: 0.4;
+        text-shadow: #4700ff 0 0 6px;
+      }
+    }
+
+    .thm_rank {
+      color: #ffffff;
+      font-size: 11px;
+      text-shadow: #4700ff 0 0 6px;
+    }
+
+    .thm_line {
+      line-height: 12px;
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .thm_link {
+      color: #fff;
+      font-size: 0.6em;
+      text-decoration: none;
+      animation: flicker 6s infinite;
+      text-shadow: #4700ff 0 0 6px;
+      }
+    .thm_link:hover {
+      color: #fff;
+      font-size: 0.6em;
+      text-decoration: underline;
+    }
+
+    .thm_link:visited {
+      color: #fff;
+    }
+
+    .thm_mr {
+      margin-right: 8px;
+    }
+
+    .thm_for_img {
+      color: #fff;
+      opacity: 0.5;
+      font-size: 14px;
+      position: relative;
+      top: -3px;
+      margin-bottom: 5px;
+    }
+
+    .trophy {
+      width: 300px;
+      filter: drop-shadow(0px 0px 2px rgb(255, 238, 0));
+    }
+</style>
+  <g id="thm_badge" class="thm_margin" onclick="location.href='https://tryhackme.com/p/W41do'">
+    <rect width="210" height="56" fill="#1e2124" rx="5" />
+    <image xlink:href="https://tryhackme-images.s3.amazonaws.com/user-avatars/1192cb4fc52a49d1640091a65f990b44.jpg" class="thm_avatar" x="0" y="0" width="50" height="50" />
+    <foreignObject x="65" y="5" width="270" height="50">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="thm_font">
+        <p class="thm_line" style="margin-bottom: 3px">
+          <span class="thm_nickname">W41do</span>
+          <span class="thm_rank">[0x8]</span>
+          <br />
+        </p>
+        <p class="thm_line" style="margin-bottom: 1px; display: flex; align-items: center">
+          <img class="thm_icon thm_mr" xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960650301386407966/trophy.gif" alt="trophy" width="16" height="16" />
+          <span class="thm_stat thm_mr">84965</span>
+          <img class="thm_icon thm_mr" xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/958108545583296573/ohayo.png" alt="door" width="16" height="16" />
+          <span class="thm_stat thm_mr">41</span>
+          <img class="thm_icon thm_mr" xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960658941992382474/badge00.png" alt="target" width="16" height="16" />
+          <span class="thm_stat thm_mr">10</span>
+          <img class="thm_icon thm_mr" xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960661695334866954/flame.gif" alt="streak" width="16" height="16" />
+          <span class="thm_stat">402</span>
+          <br />
+        </p>
+        <p class="thm_line">
+          <a href="https://tryhackme.com/p/W41do" class="thm_link">tryhackme.com</a>
+</p>
+</div>
+</foreignObject>
+</g>
+</svg>

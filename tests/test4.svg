@@ -1,0 +1,141 @@
+<svg id="thm_badge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="80">
+  <style>
+    .thm_margin {
+      margin: 5px;
+    }
+    
+    .thm_avatar {
+      display: block;
+      width: 50px;
+      height: 50px;
+      fill: url(#avatar-image);
+      border-radius: 50%;
+      stroke: #1bf913;
+      stroke-width: 3px;
+      background-color: #1e2124;
+      filter: inset 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+    
+    .thm_font {
+      font-family: "Roboto", monospace;
+    }
+    
+    .thm_nickname {
+      fill: #ffffff;
+      font-size: 12px;
+      font-weight: bold;
+      filter: drop-shadow(#4700ff 0 0 6px);
+    }
+    
+    .thm_stat {
+      fill: #fff;
+      opacity: 0.8;
+      font-size: 14px;
+    }
+    
+    .thm_icon {
+      fill: currentColor;
+      opacity: 1.00;
+      height: 16px;
+    }
+    
+    .thm_rank {
+      fill: #ffffff;
+      font-size: 11px;
+      filter: drop-shadow(#4700ff 0 0 6px);
+    }
+    
+    .thm_line {
+      line-height: 12px;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .thm_link {
+      fill: #fff;
+      font-size: 0.6em;
+      text-decoration: none;
+      animation: flicker 6s infinite;
+      filter: drop-shadow(#4700ff 0 0 6px);
+    }
+    
+    .thm_link:hover {
+      text-decoration: underline;
+    }
+    
+    .thm_link:visited {
+      fill: #fff;
+    }
+    
+    .thm_mr {
+      margin-right: 8px;
+    }
+    
+    .thm_for_img {
+      fill: #fff;
+      opacity: 0.5;
+      font-size: 14px;
+      position: relative;
+      top: -3px;
+      margin-bottom: 5px;
+    }
+    
+    .trophy {
+      width: 300px;
+      filter: drop-shadow(0px 0px 2px rgb(255, 238, 0));
+    }
+    
+    @keyframes flicker {
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        opacity: 0.99;
+        filter: drop-shadow(-1px -1px 0 $outline) drop-shadow(1px -1px 0 $outline) drop-shadow(-1px 1px 0 $outline) drop-shadow(1px 1px 0 $outline) drop-shadow(0 -2px 8px) drop-shadow(0 0 2px) drop-shadow(0 0 5px #424549) drop-shadow(0 0 15px #36393e) drop-shadow(0 0 2px #282b30) drop-shadow(0 2px 3px #000);
+      }
+      20%,
+      21.999%,
+      63%,      63.999%,
+      65%,
+      69.999% {
+        opacity: 0.4;
+        filter: drop-shadow(#4700ff 0 0 6px);
+      }
+    }
+  </style>
+
+  <a href="https://tryhackme.com/p/W41do">
+    <rect class="thm_margin" width="320" height="80" fill="transparent"/>
+  </a>
+
+  <g transform="translate(15, 15)">
+    <circle class="thm_avatar" cx="25" cy="25" r="25" />
+  </g>
+
+  <rect x="85" y="5" width="225" height="70" rx="5" fill="#1e2124" />
+
+  <text class="thm_font thm_nickname" x="95" y="20">W41do</text>
+  <text class="thm_font thm_rank" x="95" y="35">[0x8]</text>
+
+  <g transform="translate(95, 50)">
+    <text class="thm_font thm_line" y="0">
+      <tspan class="thm_icon thm_mr" dy="0.3em">
+        <image xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960650301386407966/trophy.gif" width="16" height="16" />
+      </tspan>
+      <tspan class="thm_stat thm_mr" dy="0.3em">84965</tspan>
+      <tspan class="thm_icon thm_mr" dy="0.3em">
+        <image xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/958108545583296573/ohayo.png" width="16" height="16" />
+      </tspan>
+      <tspan class="thm_stat thm_mr" dy="0.3em">41</tspan>
+      <tspan class="thm_icon thm_mr" dy="0.3em">
+        <image xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960658941992382474/badge00.png" width="16" height="16" />
+      </tspan>
+      <tspan class="thm_stat thm_mr" dy="0.3em">10</tspan>
+      <tspan class="thm_icon" dy="0.3em">
+        <image xlink:href="https://cdn.discordapp.com/attachments/939096809018622002/960661695334866954/flame.gif" width="16" height="16" />
+      </tspan>
+      <tspan class="thm_stat" dy="0.3em">402</tspan>
+    </text>
+  </g>
+
+  <a href="https://tryhackme.com/p/W41do" class="thm_link">
+    <text class="thm_font thm_line" x="95" y="70">tryhackme.com</text>
+  </a>
+</svg>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="56">
+  <style>
+    .thm_margin {
+      margin: 5px;
+    }
+
+    .thm_avatar {
+      fill: #1e2124;
+      stroke: #1bf913;
+      stroke-width: 3px;
+      border-radius: 50%;
+      box-shadow: inset 0 0 3px 3px rgba(0, 0, 0, 0.1), 0 0 3px 0px #1bf913;
+      filter: drop-shadow(0px 0px 6px #1bf913);
+    }
+
+    .thm_font {
+      font-family: "Roboto", monospace;
+    }
+
+    .thm_nickname {
+      fill: #ffffff;
+      font-size: 12px;
+      font-weight: bold;
+      text-shadow: #4700ff 0 0 6px;
+    }
+
+    .thm_stat {
+      fill: #fff;
+      opacity: 0.8;
+      font-size: 14px;
+    }
+
+    .thm_icon {
+      opacity: 1.00;
+      height: 16px;
+    }
+
+    .thm_rank {
+      fill: #ffffff;
+      font-size: 11px;
+      text-shadow: #4700ff 0 0 6px;
+    }
+
+    .thm_link {
+      fill: #fff;
+      font-size: 0.6em;
+      text-decoration: none;
+      text-shadow: #4700ff 0 0 6px;
+    }
+
+    .thm_link:hover {
+      fill: #fff;
+      text-decoration: underline;
+    }
+
+    .thm_link:visited {
+      fill: #fff;
+    }
+
+    .thm_mr {
+      margin-right: 8px;
+    }
+
+    .thm_for_img {
+      fill: #fff;
+      opacity: 0.5;
+      font-size: 14px;
+      position: relative;
+      top: -3px;
+      margin-bottom: 5px;
+    }
+
+    .trophy {
+      width: 300px;
+      filter: drop-shadow(0px 0px 2px rgb(255, 238, 0));
+    }
+  </style>
+  <a href="https://tryhackme.com/p/W41do">
+    <g class="thm_margin">
+      <circle class="thm_avatar" cx="25" cy="25" r="25" />
+    </g>
+    <g transform="translate(60, 0)">
+      <rect width="270" height="56" x="0" y="0" rx="5" fill="#1e2124" />
+      <text class="thm_font" x="8" y="16">
+        <tspan class="thm_line" dy="0" x="0">
+          <tspan class="thm_nickname">W41do</tspan>
+          <tspan class="thm_rank">[0x8]</tspan>
+        </tspan>
+        <tspan class="thm_line" dy="12" x="0">
+          <tspan class="thm_icon thm_mr">
+            <image href="https://cdn.discordapp.com/attachments/939096809018622002/960650301386407966/trophy.gif" width="16" height="16" />
+          </tspan>
+            <tspan class="thm_stat thm_mr">84965</tspan>
+          <tspan class="thm_icon thm_mr">
+            <image href="https://cdn.discordapp.com/attachments/939096809018622002/958108545583296573/ohayo.png" width="16" height="16" />
+          </tspan>
+          <tspan class="thm_stat thm_mr">41</tspan>
+          <tspan class="thm_icon thm_mr">
+            <image href="https://cdn.discordapp.com/attachments/939096809018622002/960658941992382474/badge00.png" width="16" height="16" />
+          </tspan>
+          <tspan class="thm_stat thm_mr">10</tspan>
+          <tspan class="thm_icon thm_mr">
+            <image href="https://cdn.discordapp.com/attachments/939096809018622002/960661695334866954/flame.gif" width="16" height="16" />
+          </tspan>
+          <tspan class="thm_stat">402</tspan>
+        </tspan>
+        <a href="https://tryhackme.com/p/W41do" class="thm_link">
+          <tspan class="thm_line">tryhackme.com</tspan>
+        </a>
+      </text>
+    </g>
+  </a>
+</svg>
