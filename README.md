@@ -70,7 +70,13 @@ Fun Fact: you found me
     <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
     <img src="snake/snake1.svg"/>
 </picture>
-<center>
+
+<!-- LOGA -->
+<!-- LOGA -->
+<!-- LOGA -->
+<!-- LOGA -->
+
+<!-- <center>
 <img src="badges/dc_svg.svg" style="width:48%;"/>
 <img src="badges/thm_svg.svg" style="width:48%;"/>
 </center>
@@ -79,7 +85,7 @@ Fun Fact: you found me
 </br>
 <picture>
     <img src="gifs/totoro_faster.gif" width="1200"/>
-</picture>
+</picture> -->
 <picture>
     <!-- https://github.com/kyechan99/capsule-render#color -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2fdede&height=160&section=footer&width=100"/>
